@@ -1,0 +1,25 @@
+name: report
+main: me.tedsworth.yagasaga.Yagasaga
+version: 1.0.0
+author: Tedsworth
+
+
+
+
+
+commands:
+  report:
+    description: Report a player for breaking the rules.
+    usage: |
+           /<command> <player> <reason> <description>
+           Reasons: hacking, cheating, advertising, language, glitching, spamming
+
+  vote:
+    description: Brings up a list of links to vote for the server on.
+    usage: |
+           /<command>
+
+  discord:
+    description: Brings up a link to the server discord.
+    usage: |
+           /<command>
